@@ -7,6 +7,7 @@ Este repositorio contiene implementaciones de varios patrones de diseño, los cu
 - **Command**
 -**Factory Method**
 -**Chain of Responsibility**
+-**Abstract Factory**
 
 Cada patrón cuenta con un ejemplo ejecutable en el archivo "main.py" correspondiente. Estos ejemplos fueron presentados durante clases y demuestran la aplicación práctica de los patrones de diseño.
 
