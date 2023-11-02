@@ -1,9 +1,11 @@
-#PATRONES DE DISEÑO
-    Dentro de este repositorio se encuentra los patrones:
-        -Builder
-        -Observer
-        -Command
-    
-    -Estos ejemplos de patrones fueron dados en clase y se pueden ejecutar en "main.py" correspondiente a cada patron.
+# Patrones de Diseño
 
-    -Realizado por Ignacio De Luca
+Este repositorio contiene implementaciones de varios patrones de diseño, los cuales son herramientas fundamentales en el desarrollo de software. Los patrones incluidos son:
+
+- **Builder**
+- **Observer**
+- **Command**
+
+Cada patrón cuenta con un ejemplo ejecutable en el archivo "main.py" correspondiente. Estos ejemplos fueron presentados durante clases y demuestran la aplicación práctica de los patrones de diseño.
+
+Este trabajo fue realizado por Ignacio De Luca
